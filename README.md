@@ -1,4 +1,4 @@
-# Welcome to the UPE KSU Website Project !
+# Welcome to the UPE KSU Website Project!
 This repository contains documentation and code for developing the upeksu website, representing the UPE chapter at Kennesaw State University. The site will highlight our chapter's mission, events, and membership details while engaging current and prospective members.
 ## Project Goals
 * Build a professional and user-friendly website for UPE KSU
