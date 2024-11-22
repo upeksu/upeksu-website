@@ -12,7 +12,7 @@ Members:
 ### Backend Team Lead: Geovanni Cuevas
 Members:
 ## Getting Started
-...
+- Once development begins, this section will include instructions for setting up the project locally.
 ## Contributing
 ...
 ## Contact
