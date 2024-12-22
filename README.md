@@ -16,6 +16,7 @@ Members:
 ## Contributing
 ...
 * 1st edit
+* hi
 ## Contact
 For any questions or feedback, please reach out to:
 * Project Lead: Kevyn Lopez
