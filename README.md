@@ -15,6 +15,7 @@ Members:
 - Once development begins, this section will include instructions for setting up the project locally.
 ## Contributing
 ...
+* 1st edit
 ## Contact
 For any questions or feedback, please reach out to:
 * Project Lead: Kevyn Lopez
