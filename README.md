@@ -7,9 +7,9 @@ This repository contains documentation and code for developing the upeksu websit
 ## Team
 This project is being led by the board members of the UPE chapter at Kennesaw State University. Here are the Team leads and roles:
 ### Project Lead: Kevyn Lopez
-### Frontend Team Lead: Constant Nortey
+### Frontend Team Lead: Geovanni Cuevas
 Members:
-### Backend Team Lead: Geovanni Cuevas
+### Backend Team Lead: Constant Nortey
 Members:
 ## Getting Started
 - Once development begins, this section will include instructions for setting up the project locally.
