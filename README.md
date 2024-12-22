@@ -25,10 +25,18 @@ For any questions or feedback, please reach out to:
 * Team Leads: Constant Nortey and Geovanni Cuevas
 * UPE@KSU: upe.kennesaw@gmail.com
 
-# Table of Contents
-#### - How to setup repository locally on device
+## Table of Contents
+- [How to Setup Repository on Local Device](#how-to-setup-repository-on-local-device)
+- [Table of Contents](#table-of-contents)
+- [Team Members](#team-members)
+- [Architecture](#architecture)
+- [Environment](#environment)
+- [Executing the Web Application](#executing-the-web-application)
+- [Executing Unit Tests](#executing-unit-tests)
+- [Reviewing Unit Test Coverage](#reviewing-unit-test-coverage)
+- [Executing End-to-End Tests](#executing-end-to-end-tests)
 
-## How to Setup Repository on Device
+# How to Setup Repository on Local Device
 1. Download and Install Visual Studio Code. [Click to Download](https://code.visualstudio.com/download)
 2. Copy this link: https://github.com/upeksu/upeksu-website
 
