@@ -23,3 +23,11 @@ For any questions or feedback, please reach out to:
 * Project Lead: Kevyn Lopez
 * Team Leads: Constant Nortey and Geovanni Cuevas
 * UPE@KSU: upe.kennesaw@gmail.com
+
+# Table of Contents
+#### - How to setup repository locally on device
+
+## How to Setup Repository on Device
+1. Download and Install Visual Studio Code. [Click to Download](https://code.visualstudio.com/download)
+2. Copy this link: https://github.com/upeksu/upeksu-website
+
