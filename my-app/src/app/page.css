@@ -1,0 +1,59 @@
+.upeBody{
+    position: 'relative';
+    min-height: '100vh';
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Monserrat;
+}
+
+.navbar a{
+    padding: 10px;
+}
+
+.background{
+    object-fit: 'cover';
+    z-Index: -1;
+    filter: blur(8px);
+  -webkit-filter: blur(8px);
+}
+
+.upeLogo{
+    width: 50px;
+    /* position: relative; */
+}
+
+.homeHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.headerText{
+    font-family: Montserrat;
+    margin-left: 10px;
+    width:270px;
+}
+
+.centerText{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 500px; */
+}
+.centerText1{
+    letter-spacing: 9.2px;
+}
+
+.centerText2{
+    display: block;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: 3.5px;
+}

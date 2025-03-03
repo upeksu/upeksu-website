@@ -1,5 +1,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import Image from "next/image";
+import backgroundImage from './assets/ksu.png';
 import "./globals.css";
+import "./page.css"
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -19,10 +22,17 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
+        <div className="upeBody">
+          <Image
+            className="background"
+            src={backgroundImage}
+            alt="Background"
+            fill
+            quality={100}
+          />
+          {children}
+        </div>
       </body>
     </html>
   );
