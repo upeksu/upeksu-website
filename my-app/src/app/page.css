@@ -41,19 +41,40 @@
 }
 
 .centerText{
+    font-family: Montserrat;
     color: white;
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     /* width: 500px; */
 }
 .centerText1{
     letter-spacing: 9.2px;
+    display: block;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.19);
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
 
 .centerText2{
+    margin-top:-50px;
     display: block;
-    font-weight: 900;
+    font-weight: 800;
     line-height: normal;
     letter-spacing: 3.5px;
+    font-size: 350px;
+}
+
+.centerText3{
+    margin-top: -40px;
+    text-align: center;
+    display: block;
+    text-shadow: 0px 0px 0px rgba(0, 0, 0, 0.19);
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }

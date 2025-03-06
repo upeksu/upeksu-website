@@ -32,6 +32,9 @@ export default function Home(){
   <div className='centerText'>
       <p className='centerText1'>UNITY IN TECHNOLOGY INNOVATION</p>
       <h1 className='centerText2'>UPE</h1>
+      <div style={{width:'600px'}}>
+        <p className='centerText3'>Upsilon Pi Epsilon (UPE) is the premier international honor society for computing and information disciplines, dedicated to recognizing academic excellence, fostering innovation, and empowering members to lead in advancing the global technology landscape.</p>
+      </div>
       </div>
       
     </div>

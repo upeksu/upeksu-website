@@ -1,0 +1,36 @@
+.sub{
+    display: flex; /* Makes the children align horizontally */
+    justify-content: space-between; /* Distributes space between the elements */
+    align-items: center; /* Vertically centers the elements */
+    padding: 10px; 
+}
+
+.subHomeHeader{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    margin-left: 20px;
+    color: white;
+}
+.upeLogo{
+    width: 50px;
+    /* position: relative; */
+}
+.subHeaderText{
+    display: inline;
+    font-family: Montserrat;
+    margin-left: 10px;
+    width:270px;
+}
+
+.subNavbar{
+    display: inline;
+    /* justify-content: center;
+    align-items: center; */
+    color: white;
+    font-family: Monserrat;
+}
+
+.subNavbar a{
+    padding: 30px;
+}
