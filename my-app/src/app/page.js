@@ -1,8 +1,16 @@
+'use client';
 import Link from 'next/link';
 import  Image  from "next/image";
 import upeLogo from './assets/upe.png';
+
+
 import backgroundImage from './assets/ksu.png';
 
+
+function toggleMenu() {
+  const navbarLinks = document.querySelector('.navbar-links');
+  navbarLinks.classList.toggle('show');
+}
 export default function Home(){
   return (
     <div>
@@ -19,6 +27,7 @@ export default function Home(){
         </div>
         
       </div>
+      <button className="navbar-toggler" onClick={toggleMenu}>☰</button>
       <nav className='navbar'>
         <Link href="/">Home</Link>
         <Link href="/about">About</Link>

@@ -15,6 +15,44 @@
     padding: 10px;
 }
 
+.navbar a:hover {
+    color: #ff9800;
+}
+
+.navbar-toggler {
+    display: none; /* Hidden by default */
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+
+/* Responsive Styles for Mobile */
+@media (max-width: 480px) {
+    .navbar-toggler {
+        display: block; /* Show hamburger button on mobile */
+    }
+
+    .navbar-links {
+        display: none; /* Hide menu by default */
+        flex-direction: column;
+        gap: 10px;
+        background-color: #444;
+        position: absolute;
+        top: 60px;
+        right: 20px;
+        width: 200px;
+        padding: 10px;
+        border-radius: 8px;
+    }
+
+    .navbar-links.show {
+        display: flex; /* Show menu when toggled */
+    }
+}
+
 .background{
     object-fit: 'cover';
     z-Index: -1;
@@ -88,4 +126,62 @@
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+}
+
+
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .navbar a {
+        padding: 8px;
+    }
+
+    .upeLogo {
+        width: 40px;
+    }
+
+    .headerText {
+        font-size: 16px;
+    }
+
+    .centerText1 {
+        font-size: 14px;
+        letter-spacing: 1.5px;
+    }
+
+    .centerText2 {
+        font-size: 80px;
+    }
+
+    .centerText3 {
+        font-size: 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .navbar {
+        flex-direction: column; /* Stack navbar items vertically */
+    }
+
+    .centerText1 {
+        font-size: 12px;
+        letter-spacing: 1px;
+    }
+
+    .centerText2 {
+        font-size: 60px;
+    }
+
+    .centerText3 {
+        font-size: 8px;
+    }
+
+    .headerText {
+        font-size: 14px;
+        margin-left: 0;
+    }
+
+    .background {
+        filter: blur(5px); /* Reduce blur effect for smaller screens */
+    }
 }

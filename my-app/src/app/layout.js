@@ -9,6 +9,13 @@ const geistSans = Geist({
   subsets: ["latin"],
 });
 
+
+function toggleMenu() {
+    const navbarLinks = document.querySelector('.navbar-links');
+    navbarLinks.classList.toggle('show');
+}
+
+
 const geistMono = Geist_Mono({
   variable: "--font-geist-mono",
   subsets: ["latin"],
@@ -37,3 +44,5 @@ export default function RootLayout({ children }) {
     </html>
   );
 }
+
+
