@@ -3,6 +3,18 @@ Thiss repository contains documentation and code for developing the upeksu websi
 
 Currently live at : https://upeksu-website.vercel.app/
 
+## Table of Contents
+- [Overview](#overview)
+    - [Project Goals](#project-goals)
+    - [Team](#team)
+    - [Technology](#technology)
+    - [Contact](#contact)
+- [How to Setup Repository on Local Device](#how-to-setup-repository-on-local-device)
+- [Teams](#teams)
+- [Running the Web Application](#running-the-web-application)
+
+# Overview
+
 ## Project Goals
 * Build a professional and user-friendly website for UPE KSU
 * Showcase the chapter's mission, events, and membership opportunities.
@@ -10,26 +22,19 @@ Currently live at : https://upeksu-website.vercel.app/
 ## Team
 This project is being led by the board members of the UPE chapter at Kennesaw State University. Here are the Team leads and roles:
 ### Project Lead: Kevyn Lopez
-### Frontend Team Lead: Geovanni Cuevas
-Members:
-### Backend Team Lead: Constant Nortey
-Members:
-## Getting Started
-- Once development begins, this section will include instructions for setting up the project locally.
-## Contributing
-...
-* test 1
-* test 2
+### Management / Product Manager: Alondra Sanchez
+
+### Fullstack Lead: Constant Nortey
+
+<br><br>
+## Technology
+This website has been built so far using [NEXT.js](https://nextjs.org/docs) click to see documentation if you want to understand how it works or need to look up how something works.
 ## Contact
 For any questions or feedback, please reach out to:
 * Project Lead: Kevyn Lopez
 * Team Leads: Constant Nortey and Alondra Sanchez
 * UPE@KSU: upe.kennesaw@gmail.com
 
-## Table of Contents
-- [How to Setup Repository on Local Device](#how-to-setup-repository-on-local-device)
-- [Teams](#teams)
-- [Running the Web Application](#running-the-web-application)
 
 
 # How to Setup Repository on Local Device
@@ -47,25 +52,49 @@ For any questions or feedback, please reach out to:
 7. Press `Enter` (Windows) or `return`(MAC) and select where you want to keep the cloned repository.
 
 # Teams
+#### Work Style
+You are all free to work at your own pace, meaning meet as frequent as you would like. When it comes to coding, depending on how many screens you have, you can pair code. <br>
+This means for instance two people can work one screen and code towards the same .js file
+<br> <br>
+The website must be ***responsive*** on mobile. Another way to work is have someone research into the best way to implement a responsive UI on all screens while the other codes the found solution
 ### About Page
+#### Screens
+Screen 1
+![alt text](image-4.png)
+
+Screen 2
+![alt text](image-5.png)
+
+Screen 3
+![alt text](image-6.png)
+
+Members
 - Geshlee Ruiz
 - James B.
 - Lucio Almarez
 - Nevaeh Branham
 - Kris Prasad
-
-### Membership Page
 - Mikayla Haigh
-- Liam Mason 
-- Malavika Balamurali
 
 ### Events Page
+Though this page as a single screen, I would recommend crative ways of making the page more interactive and visually pleasing. This does not mean change the UPE background but besides the calendar, what else can be shown on this page?
+
+**The Calendar should be from Google and there are few ways to implement it. Please reach out to Constant, Alondra or Kevyn if you need clarity on this
+#### Screen
+![alt text](image-7.png)
+
+#### Members
 - Alyssa Payong
 - Aryan Merchant
 - Cameron Taylor
 - Olivia Louise Amato
 
 ### Gallery Page
+Same outline from Events team applies here, find react ways to implement the gallery page. I good suggestion is to make it a carousel. This will allow users to go through pictues indidually instead of multiple in their face at once. <br> Please reach out to Constant, Alondra or Kevyn if you need clarity on this or want to discuss ideas
+#### Screen
+![alt text](image-8.png)
+
+#### Members
 - Dante Galvan
 - Aidan Schmeck
 - Rohit Malik 
