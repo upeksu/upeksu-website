@@ -72,7 +72,6 @@ Members
 - Geshlee Ruiz
 - James B.
 - Lucio Almarez
-- Nevaeh Branham
 - Kris Prasad
 - Mikayla Haigh
 
