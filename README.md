@@ -43,11 +43,11 @@ For any questions or feedback, please reach out to:
 3. If you do not have Git installed on your device, click on [this](https://git-scm.com/downloads) to install Git before proceeding
 
 4. Open Visual Studio Code once downloaded, should look like this
-![alt text](image-2.png)
+![alt text](my-app/src/app/assets/screenshots/image-2.png)
 
 5. Click on "**Clone Git Repository**"
 6. Paste the copied link from step two as shown below
-![alt text](image-3.png)
+![alt text](my-app/src/app/assets/screenshots/image-3.png)
 
 7. Press `Enter` (Windows) or `return`(MAC) and select where you want to keep the cloned repository.
 
@@ -60,13 +60,13 @@ The website must be ***responsive*** on mobile. Another way to work is have some
 ### About Page
 #### Screens
 Screen 1
-![alt text](image-4.png)
+![alt text](my-app/src/app/assets/screenshots/image-4.png)
 
 Screen 2
-![alt text](image-5.png)
+![alt text](my-app/src/app/assets/screenshots/image-5.png)
 
 Screen 3
-![alt text](image-6.png)
+![alt text](my-app/src/app/assets/screenshots/image-6.png)
 
 Members
 - Geshlee Ruiz
@@ -81,7 +81,7 @@ Though this page as a single screen, I would recommend crative ways of making th
 
 **The Calendar should be from Google and there are few ways to implement it. Please reach out to Constant, Alondra or Kevyn if you need clarity on this
 #### Screen
-![alt text](image-7.png)
+![alt text](my-app/src/app/assets/screenshots/image-7.png)
 
 #### Members
 - Alyssa Payong
@@ -92,7 +92,7 @@ Though this page as a single screen, I would recommend crative ways of making th
 ### Gallery Page
 Same outline from Events team applies here, find react ways to implement the gallery page. I good suggestion is to make it a carousel. This will allow users to go through pictues indidually instead of multiple in their face at once. <br> Please reach out to Constant, Alondra or Kevyn if you need clarity on this or want to discuss ideas
 #### Screen
-![alt text](image-8.png)
+![alt text](my-app/src/app/assets/screenshots/image-8.png)
 
 #### Members
 - Dante Galvan
@@ -107,7 +107,7 @@ Same outline from Events team applies here, find react ways to implement the gal
 2. Click on `Terminal` located on the top left area of the screen. You should see a menu pop up. From the options,
 3. Please select `New Terminal`. A new terminal will appear at the botton part of your screen and should look like
 this.
-![alt text](image.png)
+![alt text](my-app/src/app/assets/screenshots/image.png)
 
 This indicates we are in the root folder which should be the name of the repository.
 
@@ -117,7 +117,7 @@ This indicates we are in the root folder which should be the name of the reposit
 
 6. Finally, to run in developer mode, type `npm run dev` to load the website locally and see live changes you make.
 
-![alt text](image-1.png)
+![alt text](my-app/src/app/assets/screenshots/image-1.png)
 
 In this example, I can view the current website using the Local host 3000 shown in the image. You can copy the link and paste in your browser or hold CTRL (Windows) / COMMAND (MAC) and click on the link to view.
 
