@@ -1,12 +1,11 @@
 /* Events page CSS */
 
-.upe-title {
+.title {
     font-size: 24px;
-    color: darkblue;
     text-align: center;
 }
 
-.upe-subtitle {
+.upe-description {
     font-size: 20px;
     text-align: center;
 }
